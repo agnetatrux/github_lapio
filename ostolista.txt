@@ -6,4 +6,4 @@ koira
 parsakaali
 kaksi kengurua
 viisi possumia
-Terveisiä GitHubista
+Terveisiä mun koneelta
