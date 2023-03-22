@@ -4,3 +4,5 @@ porkkana
 kissa
 koira
 parsakaali
+kaksi kengurua
+viisi possumia
